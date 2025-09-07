@@ -1,7 +1,8 @@
 @import "tailwindcss";
 
 body {
-    @apply  md:h-[180rem] h-[80rem] bg-[url('../../images/bg.png')] bg-cover bg-center;
+    /* @apply  md:h-[180rem] h-[80rem] bg-[url('../../images/bg.png')] bg-cover bg-center; */
+    @apply bg-darkgreen-001;
 }
 
 

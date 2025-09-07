@@ -16,7 +16,7 @@ import Pasted from '../../assets/images/Pasted.png'
 const Home = () => {
   return (
     <div className="w-full h-screen mt-70 ">
-      <div className="grid md:grid-cols-2 grid-cols-1 relative">
+      <div className="grid md:grid-cols-2 grid-cols-1 relative ">
                           <div className="flex flex-col text-white space-y-50">
                               <div className="px-6 md:px-10 space-y-10">
                                   <h1 className='md:text-[95px] text-5xl'>Breath Natureal</h1>
