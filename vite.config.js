@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/zeeyneth_portfolio/',
+  base: '/plants_website/',
   plugins: [tailwindcss(),
     react()],
 })

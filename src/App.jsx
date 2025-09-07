@@ -5,7 +5,7 @@ import Home from './Components/Home/Home'
 import './App.css'
 function App() {
   return (
-    <BrowserRouter basename='/zeeyneth_portfolio/'>
+    <BrowserRouter basename='/plants_website/'>
       <Navbar/>
       <Home />
      
