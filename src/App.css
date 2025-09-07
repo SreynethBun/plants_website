@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body {
+    @apply  md:h-[180rem] h-[80rem] bg-[url('../../images/bg.png')] bg-cover bg-center;
+}
+
+
+@theme {
+    --color-darkgreen-001: #1B2316;
+}
